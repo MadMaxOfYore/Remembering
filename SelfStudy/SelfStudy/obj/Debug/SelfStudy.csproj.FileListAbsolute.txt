@@ -1,0 +1,7 @@
+C:\Users\Brandon\source\repos\SelfStudy\SelfStudy\bin\Debug\SelfStudy.exe.config
+C:\Users\Brandon\source\repos\SelfStudy\SelfStudy\bin\Debug\SelfStudy.exe
+C:\Users\Brandon\source\repos\SelfStudy\SelfStudy\bin\Debug\SelfStudy.pdb
+C:\Users\Brandon\source\repos\SelfStudy\SelfStudy\obj\Debug\SelfStudy.csprojResolveAssemblyReference.cache
+C:\Users\Brandon\source\repos\SelfStudy\SelfStudy\obj\Debug\SelfStudy.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\source\repos\SelfStudy\SelfStudy\obj\Debug\SelfStudy.exe
+C:\Users\Brandon\source\repos\SelfStudy\SelfStudy\obj\Debug\SelfStudy.pdb
