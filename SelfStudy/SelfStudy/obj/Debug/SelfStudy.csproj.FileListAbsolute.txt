@@ -5,3 +5,9 @@ C:\Users\Brandon\source\repos\SelfStudy\SelfStudy\obj\Debug\SelfStudy.csprojReso
 C:\Users\Brandon\source\repos\SelfStudy\SelfStudy\obj\Debug\SelfStudy.csproj.CoreCompileInputs.cache
 C:\Users\Brandon\source\repos\SelfStudy\SelfStudy\obj\Debug\SelfStudy.exe
 C:\Users\Brandon\source\repos\SelfStudy\SelfStudy\obj\Debug\SelfStudy.pdb
+C:\repos\MadMaxOfYore\self-study\mine\Remembering\SelfStudy\SelfStudy\bin\Debug\SelfStudy.exe.config
+C:\repos\MadMaxOfYore\self-study\mine\Remembering\SelfStudy\SelfStudy\bin\Debug\SelfStudy.exe
+C:\repos\MadMaxOfYore\self-study\mine\Remembering\SelfStudy\SelfStudy\bin\Debug\SelfStudy.pdb
+C:\repos\MadMaxOfYore\self-study\mine\Remembering\SelfStudy\SelfStudy\obj\Debug\SelfStudy.csproj.CoreCompileInputs.cache
+C:\repos\MadMaxOfYore\self-study\mine\Remembering\SelfStudy\SelfStudy\obj\Debug\SelfStudy.exe
+C:\repos\MadMaxOfYore\self-study\mine\Remembering\SelfStudy\SelfStudy\obj\Debug\SelfStudy.pdb
